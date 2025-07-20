@@ -1,6 +1,6 @@
 ## Hey friend 👋
 
-Building the future with AI and blockchain tech 🚀 Former defense contractor, current crypto developer, always learning something new. 
+I'm building the future with AI and blockchain tech 🚀 Former defense contractor, current crypto developer, always learning something new. 
 
 <!--
 **ReadyMouse/ReadyMouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
