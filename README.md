@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/readymouse#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=readymouse&show_icons=true&theme=swift&hide=stars&count_private=true&line_height=28&hide_border=1&card_width=450&rank_icon=github#gh-light-mode-only" alt="Mylo's Github Stats" />
+</a>
+<a href="https://github.com/readymouse#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=readymouse&layout=compact&langs_count=10&hide_border=1&theme=swift#gh-light-mode-only" alt="Mylo's Language Stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/readymouse#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=readymouse&show_icons=true&theme=tokyonight&hide=stars&count_private=true&line_height=28&hide_border=1&card_width=450&rank_icon=github#gh-dark-mode-only" alt="Mylo's Github Stats" />
+</a>
+<a href="https://github.com/readymouse#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=readymouse&layout=compact&langs_count=10&hide_border=1&theme=tokyonight#gh-dark-mode-only" alt="Mylo's Language Stats" />
+</a>
+</div>
