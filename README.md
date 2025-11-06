@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 -->
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
-<td width="80" align="center">
-<img src="stableRent_logo.png" width="60" alt="StableRent">
-</td>
 <td>
 <h3><a href="https://github.com/ReadyMouse/sub-manager">StableRent</a></h3>
 <p>StableRent is a tool for property owners and residents to use Stablecoin digital assets. Property owners can screen tenants by checking account balances of assets and accept Paypal's PYUSD, while residents can automatically send rent payments using stablecoins.</p>
@@ -32,9 +29,6 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-<td width="80" align="center">
-<span style="font-size: 48px;">🍌</span>
-</td>
 <td>
 <h3><a href="https://github.com/readymouse/bananabetting">Banana Betting</a></h3>
 <p>Inspired by the Savannah Bananas and Banana-ball, the dancing alternative to baseball. BananaBetting is a fun, Zcash-powered sports betting platform, all to benefit charities. 3rd Winner in ZECHUB hackathon.</p>
