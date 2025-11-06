@@ -18,7 +18,35 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- Light Mode -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="80" align="center">
+<img src="stableRent_logo.png" width="60" alt="StableRent">
+</td>
+<td>
+<h3><a href="https://github.com/ReadyMouse/sub-manager">StableRent</a></h3>
+<p>StableRent is a tool for property owners and residents to use Stablecoin digital assets. Property owners can screen tenants by checking account balances of assets and accept Paypal's PYUSD, while residents can automatically send rent payments using stablecoins.</p>
+</td>
+</tr>
+
+<tr>
+<td width="80" align="center">
+<span style="font-size: 48px;">🍌</span>
+</td>
+<td>
+<h3><a href="https://github.com/readymouse/bananabetting">Banana Betting</a></h3>
+<p>Inspired by the Savannah Bananas and Banana-ball, the dancing alternative to baseball. BananaBetting is a fun, Zcash-powered sports betting platform, all to benefit charities. 3rd Winner in ZECHUB hackathon.</p>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- 
+Commented out dynamic stats cards - uncomment to restore
+Light Mode
 <div align="center"> 
 <a href="https://github.com/readymouse#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=readymouse&show_icons=true&theme=swift&hide=stars&count_private=true&line_height=28&hide_border=1&card_width=450&rank_icon=github#gh-light-mode-only" alt="Mylo's Github Stats" />
@@ -28,7 +56,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-<!-- Dark Mode -->
+Dark Mode
 <div align="center"> 
 <a href="https://github.com/readymouse#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=readymouse&show_icons=true&theme=tokyonight&hide=stars&count_private=true&line_height=28&hide_border=1&card_width=450&rank_icon=github#gh-dark-mode-only" alt="Mylo's Github Stats" />
@@ -37,3 +65,4 @@ Here are some ideas to get you started:
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=readymouse&layout=compact&langs_count=10&hide_border=1&theme=tokyonight#gh-dark-mode-only" alt="Mylo's Language Stats" />
 </a>
 </div>
+-->
