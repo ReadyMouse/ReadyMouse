@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
+
 ## Featured Projects
 
 <table>
 <tr>
 <td>
-<h3><a href="https://github.com/ReadyMouse/sub-manager">StableRent</a></h3>
-<p>StableRent is a tool for property owners and residents to use Stablecoin digital assets. Property owners can screen tenants by checking account balances of assets and accept Paypal's PYUSD, while residents can automatically send rent payments using stablecoins.</p>
+<h3><a href="https://github.com/ReadyMouse/pepper-crm">Pepper CRM</a></h3>
+<p>Pepper is a sexy, helpful relationship and contact management agent, for vCard-based users comfortable with self-hosted software.</p>
 </td>
 </tr>
-
+<!-- 
 <tr>
 <td>
 <h3><a href="https://github.com/readymouse/bananabetting">Banana Betting</a></h3>
