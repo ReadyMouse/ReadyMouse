@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <td>
 <h3><a href="https://github.com/ReadyMouse/pepper-crm">Pepper CRM</a></h3>
 <p>Pepper is a sexy, helpful relationship and contact management agent, for vCard-based users comfortable with self-hosted software.</p>
+<p>  </p>
 </td>
 </tr>
 <!-- 
